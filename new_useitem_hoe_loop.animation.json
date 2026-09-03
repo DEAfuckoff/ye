@@ -1,0 +1,128 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"new_useitem_hoe_loop": {
+			"loop": true,
+			"animation_length": 0.4583,
+			"bones": {
+				"right_arm": {
+					"rotation": {
+						"0.0": {
+							"post": [
+								14.1158,
+								24.0186,
+								-1.6219
+							],
+							"lerp_mode": "catmullrom"
+						},
+						"0.0833": {
+							"post": [
+								14.1158,
+								24.0186,
+								-1.6219
+							],
+							"lerp_mode": "catmullrom"
+						},
+						"0.2917": {
+							"post": [
+								-87.5,
+								0,
+								0
+							],
+							"lerp_mode": "catmullrom"
+						},
+						"0.4583": {
+							"post": [
+								14.1158,
+								24.0186,
+								-1.6219
+							],
+							"lerp_mode": "catmullrom"
+						}
+					},
+					"position": {
+						"0.0": {
+							"post": [
+								-5,
+								-4.32,
+								-8.36
+							],
+							"lerp_mode": "catmullrom"
+						},
+						"0.0833": {
+							"post": [
+								-5,
+								-4.32,
+								-6.16
+							],
+							"lerp_mode": "catmullrom"
+						},
+						"0.2917": {
+							"post": [
+								-10.13,
+								-5.08,
+								-12.1
+							],
+							"lerp_mode": "catmullrom"
+						},
+						"0.4583": {
+							"post": [
+								-5,
+								-4.32,
+								-8.36
+							],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				},
+				"itemgrip_right": {
+					"rotation": {
+						"0.0": {
+							"post": [
+								56.85,
+								13.72,
+								-13.76
+							],
+							"lerp_mode": "catmullrom"
+						},
+						"0.0833": {
+							"post": [
+								56.85,
+								13.72,
+								-13.76
+							],
+							"lerp_mode": "catmullrom"
+						},
+						"0.25": {
+							"post": [
+								67.8904,
+								5.5617,
+								-2.2546
+							],
+							"lerp_mode": "catmullrom"
+						},
+						"0.375": {
+							"post": [
+								-3.0575,
+								3.9944,
+								-0.2131
+							],
+							"lerp_mode": "catmullrom"
+						},
+						"0.4583": {
+							"post": [
+								56.85,
+								13.72,
+								-13.76
+							],
+							"lerp_mode": "catmullrom"
+						}
+					}
+				}
+			},
+			"timeline": {
+				"0.0": "anim_speed_1.7;"
+			}
+		}
+	}
+}
